@@ -1,6 +1,10 @@
 # Recipe Finder
 Responsive recipe finder application built with React that helps you discover delicious meals from around the world. Search for recipes or explore random recommendations powered by TheMealDB API.
 
+## Live demo
+
+https://recipefinder-brown.vercel.app/
+
 ## Features
 - Smart Search - Find recipes by name or ingredient
 - Random Recommendations - Discover 4 new recipes on every visit
